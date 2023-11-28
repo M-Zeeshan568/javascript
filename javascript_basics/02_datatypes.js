@@ -51,3 +51,37 @@
 
 
 
+
+// Memory or Storage
+
+// Types
+
+// Stack => is called Primitive datatype
+// Heap => is called Non-Primitive or Reference datatype
+
+let name = 'Zeeshan'
+
+let name_2 = name
+
+name_2 = 'Javaid'
+
+console.log(name_2)
+console.log(name)
+
+
+let userOne = {
+    email: 'user@gmail.com',
+    userName: 'Zeeshan'
+}
+
+
+let userTwo = userOne
+
+userTwo.email = 'Bilal@gmail.com'
+
+console.log(userTwo);
+console.log(userOne);
+
+
+
+
