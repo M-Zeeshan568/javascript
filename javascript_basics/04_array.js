@@ -1,7 +1,7 @@
 
 const arry = [1, 2,3,4,5]
 
-// arry.push(7);
+// arry.push(7); 
 // arry.pop();
 
 // arry.unshift(4);
