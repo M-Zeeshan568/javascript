@@ -97,7 +97,7 @@ const obj4 = {1: 'a', 2: 'b'}
 // console.log(Object.values(obj4));
 // console.log(Object.entries(obj4));
 
-console.log(obj4.hasOwnProperty('email'));
+// console.log(obj4.hasOwnProperty('email'));
 
 
 
